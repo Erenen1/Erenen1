@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren ÇELİK</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-[![MasterHead](https://i.pinimg.com/564x/47/1e/97/471e973a617e0ccb9da48a1b93c9e3e7.jpg)
+[![MasterHead](https://cdn.dribbble.com/users/1626229/screenshots/9834702/media/45c03e59f32f1ff98519716b1f5b000f.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenen1&label=Profile%20views&color=0e75b6&style=flat" alt="erenen1" /> </p>
 
