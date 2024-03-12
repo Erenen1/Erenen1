@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eren ÇELİK</h1>
+<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
 ![MasterHead](https://cdn.dribbble.com/users/1626229/screenshots/9834702/media/45c03e59f32f1ff98519716b1f5b000f.jpg)
